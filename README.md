@@ -1,15 +1,23 @@
 # Predicting Thai NER Tags Using CRFs Model
 
-This repository provides an implementation of Named Entity Recognition (NER) using a **Conditional Random Fields (CRF)** model. NER is a task in natural language processing (NLP) where the goal is to identify and classify named entities (e.g., persons, organizations, locations) in text.
+This repository provides an implementation of Named Entity Recognition (NER) using a **Conditional Random Fields (CRF)** model. NER is a task in natural language processing (NLP) where the goal is to identify and classify named entities (e.g., persons, organizations, locations) in text. This repo will guide you how to use CRF model to predict NER tags step by steps if you have any questions about this please create an issue.
 
 ### Table of Contents
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Data Processing](#data-processing)
+- [Data Processing](#data-processing)
+  - [Load Data](#load-data)
+  - [Read Data](#read-data)
+  - [Create Label List](#create-a-label-list-of-tags)
+  - [Replacing Unknow Tags](#Replacting-weird-tags-you-encountered)
+  - [Merge Data](#Merge-train-data-and-evaluation-data-for-better-training-(Optional))
   - [Feature Extraction](#feature-extraction)
+  - [Split Data](#Split-data-to-train-and-val-(Optional))
 - [Modeling](#modeling)
+  - [Config Model](#Config-model)
+  - [Fit Model](#Fit-model-with-X,-y)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -317,6 +325,7 @@ Thank you for your contributions!
 
 ## License
 
+This dataset is private do **NOT** use it for any other purporse than educating.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
