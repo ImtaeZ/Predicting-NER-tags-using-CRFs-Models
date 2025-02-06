@@ -150,7 +150,7 @@ labels = ['O',
  'B_NAME']
 ```
 
-#### 4. Replacting weird tags you encountered
+#### 4. Replacing weird tags you encountered
 ```bash
 def replace_weird_tag(dataframes, tags):
     
