@@ -1,0 +1,48 @@
+สภ.อ.	NN	B_ORG	B_CLS
+รามัน	NN	E_ORG	I_CLS
+หั่น	VV	O	I_CLS
+ความ	FX	O	I_CLS
+น่า	FX	O	I_CLS
+เชื่อถือ	VV	O	I_CLS
+ริงกิต	NN	O	I_CLS
+ครั้ง	CL	O	I_CLS
+แรก	NU	O	I_CLS
+รอบ	PS	O	I_CLS
+_	PU	O	I_CLS
+11	NU	B_MEA	I_CLS
+_	PU	I_MEA	I_CLS
+ปี	CL	E_MEA	E_CLS
+
+สถานี	NN	B_ORG	B_CLS
+ตำรวจภูธร	NN	I_ORG	I_CLS
+ราชาเทวะ	NN	E_ORG	I_CLS
+ลด	VV	O	I_CLS
+ความ	FX	O	I_CLS
+น่า	FX	O	I_CLS
+เชื่อถือ	VV	O	I_CLS
+เงิน	NN	O	I_CLS
+ริงกิต	NN	O	I_CLS
+เป็น	VV	O	I_CLS
+ครั้ง	CL	O	I_CLS
+แรก	NU	O	I_CLS
+ใน	PS	O	I_CLS
+รอบ	PS	O	I_CLS
+_	PU	O	I_CLS
+11	NU	B_MEA	I_CLS
+_	PU	O	I_CLS
+ปี	CL	B_MEA	E_CLS
+
+หลัง	CC	O	B_CLS
+สถานะ	NN	O	I_CLS
+การ	FX	O	I_CLS
+คลัง	NN	O	I_CLS
+สาธารณะ	NN	O	I_CLS
+อำเภอ	NN	B_LOC	I_CLS
+ปรางค์	NN	I_LOC	I_CLS
+กู่	NN	E_LOC	I_CLS
+ย่ำแย่	VV	O	I_CLS
+อย่าง	FX	O	I_CLS
+หนัก	VV	O	E_CLS
+
+
+

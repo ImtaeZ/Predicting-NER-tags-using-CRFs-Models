@@ -1,0 +1,37 @@
+คุ้มกัน	VV	O	B_CLS
+ทาง	NN	O	I_CLS
+อากาศ	NN	O	E_CLS
+
+เฮลิคอปเตอร์	NN	O	B_CLS
+พร้อม	CC	O	I_CLS
+เจ้าหน้าที่	NN	O	I_CLS
+บิน	VV	O	I_CLS
+ตรวจการณ์	VV	O	I_CLS
+บริเวณ	NN	O	I_CLS
+พื้นที่	NN	O	I_CLS
+_	PU	O	I_CLS
+อุทยาน	NN	B_LOC	I_CLS
+เบญจ	NN	I_LOC	I_CLS
+สิริ	NN	E_LOC	I_CLS
+_	PU	O	I_CLS
+วัด	NN	B_LOC	E_CLS
+กัลยาณมิตร	NN	E_LOC	I_CLS
+_	PU	O	O
+เพื่อ	CC	O	B_CLS
+สนับสนุน	VV	O	I_CLS
+การ	FX	O	I_CLS
+ดูแล	VV	O	I_CLS
+ความ	FX	O	I_CLS
+ปลอด	VV	O	I_CLS
+ภัย	NN	O	E_CLS
+ให้	CC	O	B_CLS
+ชุด	NN	O	I_CLS
+คุ้มครอง	VV	O	I_CLS
+ครู	NN	O	E_CLS
+หลัง	CC	O	B_CLS
+เกิด	VV	O	I_CLS
+เหตุ	NN	O	I_CLS
+ต่อเนื่อง	VV	O	E_CLS
+
+
+
