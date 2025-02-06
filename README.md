@@ -52,7 +52,7 @@ To get started with this project, follow the instructions below.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models
+git clone https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models.git
 ```
 2. Install CRF
    
