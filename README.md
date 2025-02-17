@@ -52,7 +52,7 @@ To get started with this project, follow the instructions below.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models
+git clone https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models.git
 ```
 2. Install CRF
    
@@ -150,7 +150,7 @@ labels = ['O',
  'B_NAME']
 ```
 
-#### 4. Replacting weird tags you encountered
+#### 4. Replacing weird tags you encountered
 ```bash
 def replace_weird_tag(dataframes, tags):
     
